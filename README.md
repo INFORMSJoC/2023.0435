@@ -3,7 +3,8 @@
 # Files containing instances and results for the paper "The Freight Transportation Network Scheduling Problem: An Integer Programming-based Column Generation Algorithm" by Hewitt and Lehuede
 
 The folder data contains all the instances used in the paper
-The folder results contains instance-level summary results for the two methods studied in the paper
+The folder results contains instance-level summary results for the two methods studied in the paper.
+The code implementing the algorithms presented in this paper is not included in this repository as the project was done for an industrial sponsor who did not give approval to share that code. 
 
 
 ## Cite
