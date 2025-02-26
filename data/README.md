@@ -2,9 +2,9 @@
 All instances are based on the same physical network. 
 Data regarding that network can be found in the files in the network_data folder.
 Those files are as follows:
-network_data/network_terminals.txt: Lists the terminals that are in the network
-network_data/network_legs.txt: Lists the possible terminal to terminal moves in the network
-network_data/network_paths.txt: Lists the path taken by all shipments that share a common origin and destination terminal
+- network_data/network_terminals.txt: Lists the terminals that are in the network
+- network_data/network_legs.txt: Lists the possible terminal to terminal moves in the network
+- network_data/network_paths.txt: Lists the path taken by all shipments that share a common origin and destination terminal
 
 See the headers of those files for detailed information regarding their contents
 
