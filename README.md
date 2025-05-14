@@ -24,8 +24,8 @@ Below is the BibTex for citing this snapshot of the repository.
   title =         {The Freight Transportation Network Scheduling Problem:
 An Integer Programming-based Column Generation Algorithm},
   year =          {2025},
-  doi =           {10.1287/ijoc.2019.0000.cd},
-  note =          {Available for download at https://github.com/INFORMSJoC/2019.0000},
+  doi =           {10.1287/ijoc.2023.0435.cd},
+  note =          {Available for download at https://github.com/INFORMSJoC/2023.0435},
 }  
 ```
 
